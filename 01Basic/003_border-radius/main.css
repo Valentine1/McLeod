@@ -1,0 +1,13 @@
+div {
+    width: 200px;
+    height: 150px;
+    border: solid crimson 5px;
+    border-radius: 25%;
+    background-image: url("images/myHouse.png");
+    background-size: cover;
+}
+
+.house1 {
+    border: chocolate 10px solid;
+    border-radius: 20%;
+}
