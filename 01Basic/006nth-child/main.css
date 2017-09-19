@@ -1,0 +1,36 @@
+li:nth-child(10) {
+    color:red;
+}
+
+li:nth-last-child(3) {
+    color:red;
+}
+
+li:nth-child(4n+1) {
+ color:green;
+    font-weight: bold;
+}
+
+
+li:nth-child(10n+8) {
+    color:yellowgreen;
+    font-weight: bold;
+}
+
+li:only-child {
+color:blue;
+}
+
+li::first-letter {
+    font-weight: bold;
+    font-size: 36px;
+}
+
+div::first-letter {
+    font-size: 36px;
+}
+
+div::first-line {
+    color:red;
+    font-weight: bold;
+}
