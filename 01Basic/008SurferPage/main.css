@@ -1,0 +1,40 @@
+body{
+    background: deepskyblue;
+}
+
+.page{
+    border: solid brown 4px;
+    background-color: limegreen;
+    margin: 0 auto;
+    padding: 20px;
+    width: 700px;
+}
+
+img{
+    margin: 20px auto;
+    display: block;
+    border: ridge gold 8px;
+    border-radius: 50%;
+width: 75%;
+}
+
+.header1{
+    font-size: 20px;
+    color: blue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.header2{
+    font-size: 20px;
+    color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+article{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
