@@ -1,0 +1,20 @@
+div{
+    width:200px;
+    height: 100px;
+    border: 2px solid black;
+    border-radius: 42%;
+    display: inline-block;
+}
+
+.color1{
+    background-color: red;
+}
+.color2{
+    background-color: blue;
+}
+.color3{
+    background-color: yellow;
+}
+.color4{
+    background-color: green;
+}
