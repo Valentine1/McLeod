@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:space-around
+}
+div{
+    border: red 1px solid;
+}
+
+ul{
+    list-style: none;
+}
+ul{
+    border: red 1px solid;
+    padding: 0px;
+    margin: 0px 0px 0px 5px;
+}
+li{
+    border: red 1px solid;
+}
